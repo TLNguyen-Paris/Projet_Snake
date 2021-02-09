@@ -4,4 +4,4 @@ Projet après la création du tetris afin d'améliorer mon code et ma connaissan
 ## Comment y accéder ?
 
 Cliquez sur ce lien: https://tlnguyen-paris.github.io/Projet_Snake/
-![alt text](https://i.postimg.cc/CLGczJrX/Tetris-Img.png)
+![alt text](https://i.postimg.cc/Y0ZB0RXh/Snakeimg.png)
